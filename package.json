@@ -6,8 +6,22 @@
     "engines": {
         "vscode": "^1.64.0"
     },
+    "publisher": "thmartins27",
+    "icon": "logo.png",
     "categories": [
         "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "pack",
+        "extension",
+        "themes",
+        "dracula",
+        "code runer",
+        "mysql"
     ],
     "extensionPack": [ 
         "publisher.extensionName",
@@ -20,5 +34,12 @@
         "ms-vscode.cpptools-extension-pack",
         "danielpinto8zz6.c-cpp-compile-run",
         "jakebathman.mysql-syntax"
-    ]
+    ],
+    "repository": {
+        "url": "https://github.com/thmartins27/extension-pack-thmartins27"
+    },
+    "homepage": "https://github.com/thmartins27/extension-pack-thmartins27",
+    "bugs": {
+        "url": "https://github.com/thmartins27/extension-pack-thmartins27/issues"
+    }
 }
