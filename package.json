@@ -1,0 +1,24 @@
+{
+    "name": "thmartins27-pack",
+    "displayName": "Pack thmartins27",
+    "description": "pacote de extensões úteis, baseadas no meu uso.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "dracula-theme.theme-dracula",
+        "formulahendry.code-runner",
+        "MS-CEINTL.vscode-language-pack-pt-BR",
+        "PKief.material-icon-theme",
+        "rangav.vscode-thunder-client",
+        "cweijan.vscode-mysql-client2",
+        "ms-vscode.cpptools-extension-pack",
+        "danielpinto8zz6.c-cpp-compile-run",
+        "jakebathman.mysql-syntax"
+    ]
+}
