@@ -2,7 +2,7 @@
     "name": "thmartins27-pack",
     "displayName": "Pack thmartins27",
     "description": "pacote de extensões úteis, baseadas no meu uso.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -33,7 +33,10 @@
         "cweijan.vscode-mysql-client2",
         "ms-vscode.cpptools-extension-pack",
         "danielpinto8zz6.c-cpp-compile-run",
-        "jakebathman.mysql-syntax"
+        "jakebathman.mysql-syntax",
+        "ritwickdey.LiveServer",
+        "formulahendry.auto-rename-tag",
+        "2gua.rainbow-brackets"
     ],
     "repository": {
         "url": "https://github.com/thmartins27/extension-pack-thmartins27"
